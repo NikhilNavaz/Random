@@ -1,0 +1,128 @@
+Intelligence amplification (I.A.) is a multidisciplinary field whose goal is to automate activities that
+presently require human intelligence. Recent successes in A.I. include computerized medical diagnosticians and
+systems that automatically customize hardware to particular user requirement. Perception is concerned with
+building model of the physical world from sensory input (visual, audio, etc.). Many important technical concepts
+have arisen from A.I. that unify these diverse problem areas and that from the foundation of the scientific
+discipline.
+Keywords: Machine learning, Deep learning, Big data, Emotions Recognition.
+I. Introduction
+Intelligence amplification (IA) refers to the effective use of Information technology in augmenting
+human intelligence. The idea was first proposed in the 1950s and 1960s by cybernetics and early computer
+pioneers. The ability to learn from experience and apply in future action is called intelligence, and when we
+impart this intelligence into a machine is known as Intelligence amplification. IA is sometimes contrasted with
+AI (artificial intelligence), that is, the project of building a human - like Intelligence in the form of an
+autonomous technological system such as a Computer or Robot. AI has encountered many fundamental
+obstacles, practical as well as theoretical, which for AI seem moot, as it needs technology merely as an extra
+support for an autonomous intelligence that has already proven to function.
+“I think it‟s likely that with technology we can in the fairly near future create or become creature of
+more than human intelligence. Such a technological singularity would revolutionize our world”.
+II. Key Terms Of Intelligence Amplification
+The terms “intelligence augmentation” and “intelligence amplification” evoke images of human beings
+with computer chips embedded in their skulls or bizarre accoutrements attached to their heads.
+ IA does not need to understand the human brain except for extreme enhancement. It can be a user interface
+issue.
+ Gradual acclimatisation
+ Effective intelligence might be more relevant than “real” intelligence
+Figure: 1Intelligence Amplification
+III. Technolgogy
+Intelligence Amplification uses variety of technology to build best:
+ Natural language Generation (NLG)
+NLG is a sub-discipline of Intelligence Amplification (IA) that convert all types of data into human-readable
+text. This software converts data into text at a rapid pace, enabling machines to communicate effectively.
+Overview Of Intelligence Amplification
+2nd National Conference of Recent Trends in Computer Science and Information Technology 31 | Page
+G. H. Raisoni Institute of Information Technology, Nagpur-440023, India
+ Speech recognition
+Siri is just one of the systems that can understand you. Every day, more and more systems are created that can
+transcribe human language, reaching hundreds of thousands through voice-response interactive systems and
+mobile apps.
+ Virtual Agents
+A virtual agent is nothing more than a computer agent or program capable of interacting with humans.
+ IA-Optimized Hardware
+IA technology makes hardware much friendlier. How? Through new graphics and central processing units and
+processing devices specifically designed and structured to execute IA-oriented tasks.
+ Deep Learning Platforms
+Deep learning platforms use a unique form of ML that involves artificial neural circuits with various abstraction
+layers that can mimic the human brain, processing data and creating patterns for decision making.
+ Emotion Recognition
+This technology allows software to “read” the emotions on a human face using advanced image processing or
+audio data processing. We are now at the point where we can capture “micro-expressions,” or subtle body
+language cues, and vocal intonation that betrays a person‟s feelings.
+Figure: 2Day after Tomorrow
+IV. Application
+IA is important because it can help solve immensely difficult issues in various industries, such as
+entertainment, education, health, commerce, transport and utilities. IA applications can be grouped into four
+categories:
+ Reasoning: The ability to solve problems through logical deduction. E.g. financial assets management,
+legal assessment, financial application processing, autonomous weapons system, games
+ Knowledge: The ability to present knowledge about the world. E.g. purchase prediction, fraud prevention,
+drug creation
+ Communication: The ability to understand spoken and written language. E.g. real-time translation of
+spoken and written languages, real-time transcription, intelligent assistants, voice control
+ Perception: The ability to infer things about the world via sounds, image, and other sensory inputs. E.g.
+medical diagnosis, autonomous vehicles, surveillance
+IA trends in various sectors:
+I. Healthcare
+ Medecision developed an algorithm that detects 8 variables in diabetes patients to determine if
+hospitalization is required.
+ An app called BiliScreen utilizes a smartphone camera, ML tools, and computer vision algorithms to detect
+increased levels of bilirubin in the patient‟s eye.
+Overview Of Intelligence Amplification
+2nd National Conference of Recent Trends in Computer Science and Information Technology 32 | Page
+G. H. Raisoni Institute of Information Technology, Nagpur-440023, India
+II. Automotive industry
+ Tesla introduced TeslaBot, an intelligent virtual assistant integrated with Tesla models S and X, allows
+users to interact with their car from their phone or desktop.
+ Uber AI Labs is working on developing self-driven cars. Uber has already tested a batch of self-driving cars
+in 2016.
+ Nvidia has partnered with Volkswagen to develop “intelligent co-pilot systems” in cars that will enable
+safety warnings, gesture control, and voice and facial recognition.
+ Ericsson predicts that 5G technology will improve vehicle-to-vehicle communication wherein sensors will
+be implanted in airport runways, railways, and roads.
+V. Algorithms
+Intelligence Amplification is the study of building agents that act rationally. Most of the time, these
+agents perform some kind of search algorithm in the background in order to achieve their tasks. There are far
+too many powerful search algorithms out there to fit in a single article. Instead, this article will discuss six of the
+fundamental search algorithms, divided into two categories, as shown below.
+Figure 3: Classification of search algorithm
+ Uninformed Search Algorithms
+The plans to reach the goal state from the start state differ only by the order and/or length of actions.
+Uninformed search is also called Blind search.
+Depth First Search
+Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures. The algorithm
+starts at the root node (selecting some arbitrary node as the root node in the case of a graph) and explores as far
+as possible along each branch before backtracking.
+Breadth First Search
+Breadth-first search (BFS) is an algorithm for traversing or searching tree or graph data structures. It starts at the
+tree root (or some arbitrary node of a graph, sometimes referred to as a „search key‟), and explores all of the
+neighbour nodes at the present depth prior to moving on to the nodes at the next depth level.
+ Informed Search Algorithms
+The algorithms have information on the goal state, which helps in more efficient searching.
+Greedy Search
+In greedy search, we expand the node closest to the goal node. The “closeness” is estimated by a heuristic h(x) .
+Heuristic: A heuristic h is defined as- h(x) = Estimate of distance of node x from the goal node. Lower the value
+of h(x), closer is the node from the goal.
+A* Tree Search
+A* Tree Search, or simply known as A* Search, combines the strengths of uniform-cost search and greedy
+search.
+Overview Of Intelligence Amplification
+2nd National Conference of Recent Trends in Computer Science and Information Technology 33 | Page
+G. H. Raisoni Institute of Information Technology, Nagpur-440023, India
+VI. Advantages
+ IA would have a low error rate compared to humans, if coded properly. They would have incredible
+precision, accuracy, and speed
+ Replace humans in repetitive, tedious tasks and in many laborious places of work
+ Robotic pets can interact with humans. Can help in depression and inactivity
+ They don't need to sleep, rest, take breaks, or get entertained, as they don't get bored or tired
+VII. Disadvantags
+ Can cost a lot of money and time to build, rebuild, and repair. Robotic repair can occur to reduce time and
+humans needing to fix it, but that'll cost more money and resources
+ IA as robots can supercede humans, enslaving us
+ As seen partially with smartphones and other technology already, humans can become too dependent on AI
+and lose their mental capacities
+ Machines can easily lead to destruction, if put in the wrong hands. That is, at least a fear of many humans
+VIII. Conclusion
+The goal of Intelligence amplification is to deliver a symbolic between man and machine. Large
+amount of data can sometimes solve problems that sophisticated tools cannot. There is significance resistance to
+the entry of computers to new lines of work, such as medicine, but the next generation will not know of a world
+without computers.
